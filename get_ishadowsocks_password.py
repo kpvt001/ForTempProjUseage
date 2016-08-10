@@ -12,7 +12,7 @@ class ServerInfo:
 password_string_header_len = 8
 password_len = 8
 password_file_name = 'ishadowsocks_passwords.txt'
-url = "http://www.ishadowsocks.org/" #网页地址
+url = "http://www.ishadowsocks.org/" #page url
 us_svr_info = ServerInfo('US', 'A密码:')
 hk_svr_info = ServerInfo('HK', 'B密码:')
 jp_svr_info = ServerInfo('JP', 'C密码:')
